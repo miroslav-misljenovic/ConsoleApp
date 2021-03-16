@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace MojaAplikacija
+namespace ConsoleApp
 {
     public class Program
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World! from the Tips4you");
+            Console.WriteLine("Hello World! ......");
+            // Testing Jenkins SCM polling...
         }
     }
 }
