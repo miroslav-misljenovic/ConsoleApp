@@ -6,8 +6,7 @@ namespace ConsoleApp
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World! ......");
-            // Testing Jenkins SCM polling...
+            Console.WriteLine("Hello World! Testing Jenkins SCM polling...");
         }
     }
 }
